@@ -1,3 +1,8 @@
 .venv
 Predict
+alexnet-coffee-defect-state-dict.pth
+alexnet-coffee-defect.pth
+alexnet-coffee-roast-level-state-dict.pth
+alexnet-coffee-roast-level.pth
+result.json
 test.ipynb
